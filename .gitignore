@@ -1,0 +1,5 @@
+images/
+venv/
+*.pt
+*.mp4
+*.jpg
